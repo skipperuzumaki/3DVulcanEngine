@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DVulcanEngine", "3DVulcanEngine\3DVulcanEngine.vcxproj", "{0FBE8C33-0B16-4049-84D3-AA4204F87CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBE8C33-0B16-4049-84D3-AA4204F87CAA}.Debug|x64.ActiveCfg = Debug|x64
+		{0FBE8C33-0B16-4049-84D3-AA4204F87CAA}.Debug|x64.Build.0 = Debug|x64
+		{0FBE8C33-0B16-4049-84D3-AA4204F87CAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FBE8C33-0B16-4049-84D3-AA4204F87CAA}.Debug|x86.Build.0 = Debug|Win32
+		{0FBE8C33-0B16-4049-84D3-AA4204F87CAA}.Release|x64.ActiveCfg = Release|x64
+		{0FBE8C33-0B16-4049-84D3-AA4204F87CAA}.Release|x64.Build.0 = Release|x64
+		{0FBE8C33-0B16-4049-84D3-AA4204F87CAA}.Release|x86.ActiveCfg = Release|Win32
+		{0FBE8C33-0B16-4049-84D3-AA4204F87CAA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6598B2-F30A-4F55-8415-B545BAA4DDFD}
+	EndGlobalSection
+EndGlobal
